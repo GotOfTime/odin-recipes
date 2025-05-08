@@ -1,0 +1,33 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#title {
+    text-align: center;
+    background-color: lightblue;
+    width: 300px;
+    margin: 0 auto 20px;
+    border: 3px, ridge, black;
+}
+
+.recipe {
+    font-weight: bold;
+    width: 100px;
+    margin: 0 auto 12px;
+    padding: 8px;
+    border: 2px, ridge, black;
+    text-align: center;
+    background-color: lightgreen;
+
+}
+
+p {
+    text-align: center;
+    
+}
+
+h3 {
+    text-align: center;
+    background-color: lightcoral;
+}
+
